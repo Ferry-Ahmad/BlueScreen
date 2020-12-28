@@ -6,4 +6,10 @@
     <string name="login">Login</string>
     <string name="register">Register</string>
     <string name="full_name">NamaLengkap</string>
+    <string name="ic_home">Beranda</string>
+    <string name="ic_time">Waktu Sholat</string>
+    <string name="ic_favorite">Daerah Favorite</string>
+    <string name="ic_profil">Profil</string>
+    <string name="ic_city">Kota</string>
+    <string name="ic_news">Berita</string>
 </resources>
